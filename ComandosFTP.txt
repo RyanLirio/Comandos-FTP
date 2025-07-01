@@ -1,0 +1,11 @@
+NO CMD
+Login 
+	ftp 192.168.0.100(ip servidor) ou ftp leovieira.dev.br(nome do dominio)
+
+COMANDOS
+	dir - 		 Listar arquivos e diretórios
+	cd public_html - entrar na pasta
+	lcd C:\meusite - copia e cola onde você indicou que quer colar
+	put index.php  - envia um único arquivo do local pro remoto
+	get config.php - envia do servidor pra maquina local
+	
